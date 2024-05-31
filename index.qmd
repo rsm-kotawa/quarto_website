@@ -1,0 +1,14 @@
+---
+title: "Kenta Otawa"
+image: "files/profile_pic.jpg"
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      href: kentaotawa@gmail.com
+    - icon: linkedin
+      href: https://www.linkedin.com/in/kentaotawa
+---
+
+Welcome to my website!
+
